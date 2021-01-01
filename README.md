@@ -6,8 +6,11 @@ Options for what you can search are:
 5. matplotlib.pyplot           6. seaborn       7. sklearn        8. sympy
 
 Usage is simple:   search(4, "path")
+
 This Imports any module you search!
+
 See the notes at the top of the file for more info.   
+
 I will likely be upgrading this periodically to make it more powerful!
 
 
