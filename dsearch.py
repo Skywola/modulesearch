@@ -122,7 +122,6 @@ def mod(module):
     elif(module == '?'):
         for i in mods:
             print(i)
-            
         return
     else:
         print('Module entered does not exist!')
